@@ -6,7 +6,7 @@ Do not remove the back-link in this web template
 -------------------------------------------------------*/
 
 @import url('http://fonts.googleapis.com/css?family=Noto+Serif:400,400italic,700|Open+Sans:400,600,700'); 
-@import url('font-awesome.css');  
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');  
 @import url('animate.css');
 
 body {
@@ -35,7 +35,7 @@ h1,h2, h3, h4, h5, h6 {
  
 .container {
 	padding:0 20px 0 20px;
-	position:relative;
+	position: relative;
 }
 
 #wrapper{
@@ -124,8 +124,8 @@ header .navbar-default .navbar-nav > .open > a:focus {
 
 
 header .navbar {
-    min-height: 70px; 
-	padding:18px 0;
+    min-height: 70px;
+    padding:18px 0;
 }
 
 header .navbar-nav > li  {
@@ -343,9 +343,7 @@ right:0px;
   }
 .flex-caption h3 {color: #fff; letter-spacing: 1px; margin-bottom: 8px; text-transform: uppercase;}
 .flex-caption p {margin: 0 0 15px;}
-.skill-home{
-margin-bottom:50px;
-}
+.skill-home{margin-bottom: 50px;}
 .c1{
 border: #ed5441 1px solid;
 background:#ed5441;
@@ -1551,7 +1549,7 @@ article img.pull-right, article .align-right{
 		border-bottom: none;
 	}
 	.navbar-header {
-		margin-top: 20px;
+		margin-top: 0px;
 		border-bottom: none;
 	}
 	
